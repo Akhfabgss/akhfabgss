@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 </p>
 
 ##### Connect with Me
+<p>
+    ![https://instagram.com/akhfabgss](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-![https://instagram.com/akhfabgss](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+    ![https://www.linkedin.com/in/akhfa-bagas-alfarizi](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-![https://www.linkedin.com/in/akhfa-bagas-alfarizi](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-![https://www.tiktok.com/@akhfabgss](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
-
+    ![https://www.tiktok.com/@akhfabgss](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+</p>
 
 ###### My Github Stats
 
