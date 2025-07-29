@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 </p>
 
 ##### Connect with Me
-##### Connect with Me
 
 <p>
   <a href="https://instagram.com/akhfabgss" target="_blank">
