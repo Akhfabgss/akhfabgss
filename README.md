@@ -33,13 +33,20 @@ Here are some ideas to get you started:
 </p>
 
 ##### Connect with Me
+##### Connect with Me
+
 <p>
-    ![https://instagram.com/akhfabgss](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-
-    ![https://www.linkedin.com/in/akhfa-bagas-alfarizi](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-    ![https://www.tiktok.com/@akhfabgss](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+  <a href="https://instagram.com/akhfabgss" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/akhfa-bagas-alfarizi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@akhfabgss" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
 </p>
+
 
 ###### My Github Stats
 
@@ -49,7 +56,7 @@ Here are some ideas to get you started:
 <br/><br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akhfabgss&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h2 align="left">Play ga,es with me </h2>
+<h2 align="left">Play games with me </h2>
 
 ###
 
